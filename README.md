@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sandbox-bp/Identity%20Protection%20Test/_apis/build/status/princegit2022.pipelines-java?branchName=main)](https://dev.azure.com/sandbox-bp/Identity%20Protection%20Test/_build/latest?definitionId=1888&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
